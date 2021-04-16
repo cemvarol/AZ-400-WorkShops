@@ -6,4 +6,4 @@
 ### Send an email to azpipelines-freetier@microsoft.com
 
 
-https://devblogs.microsoft.com/devops/change-in-azure-pipelines-grant-for-private-projects/
+[Please read this Article](https://devblogs.microsoft.com/devops/change-in-azure-pipelines-grant-for-private-projects)
