@@ -27,9 +27,10 @@ Configuration:
 ![](https://raw.githubusercontent.com/cemvarol/AZ-400-WorkShops/master/DevopsOrgCreate/04-DoAgain.png)
 ![](https://raw.githubusercontent.com/cemvarol/AZ-400-WorkShops/master/DevopsOrgCreate/05-SecondSituation%20-%20.png)
 ![](https://raw.githubusercontent.com/cemvarol/AZ-400-WorkShops/master/DevopsOrgCreate/06-Final.png)
-13. Navigate to Organization settings -> Billing -> Setup billing -> Select an Azure subscription, then select the Azure Pass subscription, then choose “MS Hosted CI/CD” and set the field “Paid parallel jobs” to 1. Then click SAVE in the blue box at the bottom. 
-14. Wait at least 3 hours before using the CI/CD capabilities so that new settings are reflected in the back end. Otherwise, you will still see the message “This agent is not running because you have reached the maximum number of requests…”.
-15. As an optional step, validate this by creating a new pre-defined project using the newly created org with billing enabled, using https://azuredevopsdemogenerator.azurewebsites.net/. Wait for some time before trying, then run a test build.
+13. Navigate to Organization settings -> Billing -> Setup billing -> Select an Azure subscription, and click Save (It must be Azure Pass subscription)
+14. Choose “MS Hosted CI/CD” and set the field “Paid parallel jobs” to 2. Then click SAVE in the blue box at the bottom. 
+15. Wait at least 3 hours before using the CI/CD capabilities so that new settings are reflected in the back end. Otherwise, you will still see the message “This agent is not running because you have reached the maximum number of requests…”. This may not be necessary.
+16. As an optional step, validate this by creating a new pre-defined project using the newly created org with billing enabled, using https://azuredevopsdemogenerator.azurewebsites.net/. Wait for some time before trying, then run a test build.
 
 
 
