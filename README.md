@@ -9,7 +9,7 @@ Configuration:
     title: 'Validate lab environment'    
 ---
 
-# Comfiguration: Validate lab environment
+# Configuration: Validate lab environment
 
 ## Instructions
 
