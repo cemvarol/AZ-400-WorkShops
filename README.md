@@ -4,10 +4,6 @@
 
 Check the steps down below
 
----
-Configuration:
-    title: 'Validate lab environment'    
----
 
 # Configuration: Validate lab environment
 
