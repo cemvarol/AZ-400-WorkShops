@@ -4,7 +4,6 @@
 
 Check the steps down below
 
-
 # Configuration: Validate lab environment
 
 ## Instructions
